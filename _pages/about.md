@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: photo.jpg
+  image: PHL.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>E348 Westgate Building, State College, PA 16801 </p>
